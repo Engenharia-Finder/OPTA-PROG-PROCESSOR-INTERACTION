@@ -12,7 +12,7 @@ ATTENTION:
 It is necessary to separate the memories and cores in the "Tools" tab of the IDE, as described below:
 
 > [!IMPORTANT]
-> For programming named **PROG_M7,** follow these settings:
+> For programming named **OPTA-PROG-PROCESSOR-INTERACTION-M7,** follow these settings:
 > 
 > Tools > Flash split > 1MB M7 + 1MB M4
 > 
@@ -22,7 +22,7 @@ It is necessary to separate the memories and cores in the "Tools" tab of the IDE
 
 
 > [!IMPORTANT]
-> For programming named **PROG_M4,** follow these settings:
+> For programming named **OPTA-PROG-PROCESSOR-INTERACTION-M4,** follow these settings:
 > 
 > Tools > Flash split > 1MB M7 + 1MB M4
 > 
